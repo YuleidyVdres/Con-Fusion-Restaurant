@@ -1,0 +1,22 @@
+{
+  "name": "confusion",
+  "description": "conFusion Restaurant",
+  "main": "index.html",
+  "authors": [
+    "Yuleidy Valladares <yuleidyvalladares@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "bootstrap": "^3.3.7"
+  }
+}
